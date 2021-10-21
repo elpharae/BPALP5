@@ -28,7 +28,7 @@ public class Main {
     private Main() {
         System.out.println(factorial(6)); //6 => 720
         System.out.println(fibonacci(6)); //6 => 7
-        geomSeq(5, 2);
+        geomSeq(5, 2); //32
     }
 
     public static void main(String[] args) {
